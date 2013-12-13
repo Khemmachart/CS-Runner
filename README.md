@@ -1,10 +1,10 @@
-<h1>PROJECT TITLE:</h1> 
+<h2>PROJECT TITLE:</h2> 
 CS Runner game
 
-DESCRIPTION:
+<h3>DESCRIPTION:</h3>
 There is java game made by Greenfoot engine
 
-PURPOSE OF PROJECT:
+<h4>PURPOSE OF PROJECT:</h4>
 We are computer science freshman student at King Mongkut’s University of Technology Thonburi, The our purpose’s try to done the work with a team and practices programming skill, in this case we used java language. 
 
 VERSION or DATE: 1.0
