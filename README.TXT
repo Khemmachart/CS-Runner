@@ -16,8 +16,9 @@ HOW TO START THIS PROJECT: User need Greenfoot engine before start this project,
 
 AUTHORS:
 Khemmachart Chutapetch
-Computer Science, School of Information Technology
-King Mongkut’s University of Technology Thonburi
+B.Sc.(Computer Science)
+School of Information Technology
+King Mongkut's University of Technology Thonburi
 
 USER INSTRUCTIONS:
 << will be available soon, please come here again >>
