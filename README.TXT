@@ -22,6 +22,3 @@ King Mongkut's University of Technology Thonburi
 
 USER INSTRUCTIONS:
 << will be available soon, please come here again >>
-
-
-<img src="https://lh4.googleusercontent.com/-Yvf8Si-RkyQ/UXfvk5TJSKI/AAAAAAAAAHQ/8FkEMqGnvx4/w998-h500-no/1233.jpg" alt=“example picture in CS Runner”>
