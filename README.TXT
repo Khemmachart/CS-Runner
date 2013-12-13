@@ -4,6 +4,9 @@
 PROJECT TITLE: 
 CS Runner game
 
+DESCRIPTION:
+There is java game made by Greenfoot engine
+
 PURPOSE OF PROJECT:
 We are computer science freshman student at King Mongkut’s University of Technology Thonburi, The our purpose’s try to done the work with a team and practices programming skill, in this case we used java language. 
 
