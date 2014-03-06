@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ground()
+comment1.params=img
+comment1.target=Ground(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moveBackward()
+numComments=4
