@@ -20,7 +20,7 @@ School of Information Technology<br>
 King Mongkut's University of Technology Thonburi<br>
 
 <h4>USER INSTRUCTIONS:</h4>
-Will be available soon, please come here again<br>
+Comming Soon<br>
 
 <h4>Screen Shot</h4>
 <img src="https://lh4.googleusercontent.com/-Yvf8Si-RkyQ/UXfvk5TJSKI/AAAAAAAAAHQ/8FkEMqGnvx4/w998-h500-no/1233.jpg" alt=“example picture in CS Runner”>
