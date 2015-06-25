@@ -8,10 +8,10 @@ CS Runner<br>
 There is java game made by Greenfoot engine<br>
 
 <h4>PURPOSE OF PROJECT:</h4>
-We are computer science freshman student at King Mongkut’s University of Technology Thonburi, The our purpose’s try to done the work with a team and practices programming skill, in this case we used java language.<br>
+This project belong to Computer Science freshman student at School of Information Technology at King Mongkut’s University of Technology Thonburi, Thailand. Our purpose is try to work as a team and practices programming skill, in this case we used java language.<br>
 
 <h4>HOW TO START THIS PROJECT:</h4>
-User need Greenfoot engine before start this project, that engine is available <a href="http://www.greenfoot.org/">Here</a>, then when you compile this project by Greenfoot engine, it will show how to start game automatically.<br>
+User need to install Greenfoot engine before using this project. It <a href="http://www.greenfoot.org/">available here</a>, then when you compile this project by Greenfoot engine, it will show how to start game automatically.<br>
 
 <h4>AUTHORS:</h4>
 Khemmachart Chutapetch<br>
